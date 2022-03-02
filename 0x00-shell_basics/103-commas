@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -pamv
+ls -al -m --indicator-style=slash -v-c
