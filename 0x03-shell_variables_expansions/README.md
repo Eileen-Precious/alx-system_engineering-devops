@@ -1,0 +1,15 @@
+0-alias - script that creates an alias.
+1-hello_you - script that prints hello user, where user is the current Linux user.
+2-path - Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
+3-paths - script that counts the number of directories in the PATH
+4-global_variables - script that lists environment variables
+5-local_variables - script that lists all local variables and environment variables, and functions
+6-create_local_varsiable - script that creates a new local variable
+7-create_global_variable - script that creates a new global variable
+8-true_knowledge - Every addition to true knowledge is an addition to human power
+9-divide_and_rule script that prints the result of POWER divided by DIVIDE, followed by a new line
+- 10-love_exponent_breath - Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
+11-binary_to_decimal - here are 10 types of people in the world -- Those who understand binary, and those who don't
+12-combinations - script that prints all possible combinations of two letters, except oo
+13-print_float - script that prints a number with two decimal places, followed by a new line
+
